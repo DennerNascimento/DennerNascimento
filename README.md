@@ -67,11 +67,6 @@
 <br /> -->
 <br />
 
-### Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
-
-[<img align="left" alt="DanteWaker | LinkedIn" width="40px" height="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
-[<img align="left" alt="DanteWaker | Instagram" width="40px" height="40px" src="https://i.imgur.com/Fm8uHXn.gif" />][instagram]
-[<img align="left" alt="DanteWaker | Twitter" width="40px" height="40px" src="https://i.imgur.com/Yfn4ldF.gif" />][twitter]
   
 
 
